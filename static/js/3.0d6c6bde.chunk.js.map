@@ -1,1 +1,0 @@
-{"version":3,"sources":["containers/Help.js"],"names":["Help"],"mappings":"kGAAA,2BAIeA,UAFF,kBAAM","file":"static/js/3.0d6c6bde.chunk.js","sourcesContent":["import React from 'react';\n\nconst Help = () => <div>Help</div>;\n\nexport default Help;"],"sourceRoot":""}
