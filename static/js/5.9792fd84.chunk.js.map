@@ -1,1 +1,0 @@
-{"version":3,"sources":["containers/WidgetSettings.js"],"names":["WidgetSettings"],"mappings":"kGAAA,2BAIeA,UAFQ,kBAAM","file":"static/js/5.9792fd84.chunk.js","sourcesContent":["import React from 'react';\n\nconst WidgetSettings = () => <div>WidgetSettings</div>;\n\nexport default WidgetSettings;"],"sourceRoot":""}
