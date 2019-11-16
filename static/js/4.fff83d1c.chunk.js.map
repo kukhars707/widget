@@ -1,0 +1,1 @@
+{"version":3,"sources":["containers/Settings.js"],"names":["Settings"],"mappings":"kGAAA,2BAIeA,UAFE,kBAAM","file":"static/js/4.fff83d1c.chunk.js","sourcesContent":["import React from 'react';\n\nconst Settings = () => <div>Settings</div>;\n\nexport default Settings;"],"sourceRoot":""}
